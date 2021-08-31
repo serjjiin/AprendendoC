@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     printf("hello Word");
-    
+
     return 0;
 }
